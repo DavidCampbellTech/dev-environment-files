@@ -122,8 +122,7 @@ brew install --cask iterm2
 Nerd font:
 
 ```bash
-brew tap homebrew/cask-fonts
-brew install font-meslo-lg-nerd-font
+brew install --cask font-meslo-lg-nerd-font
 ```
 
 Neovim:
